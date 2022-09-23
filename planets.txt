@@ -1,5 +1,0 @@
-earth
-mars
-jupiter
-neptune
-saturn
